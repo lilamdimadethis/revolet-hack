@@ -1,0 +1,10 @@
+{
+  "data": {
+    "expiryTime": {
+      "_seconds": 2034955675,
+      "_nanoseconds": 436000000
+    },
+    "user-id": "d0fd4fe7-4e5a-407f-8e54-8aca6047c610",
+    "tokenInUse": true
+  }
+}
